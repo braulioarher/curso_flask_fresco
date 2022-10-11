@@ -1,0 +1,5 @@
+q1 = Quotes(quoteauthor="Albert Einstein",quotestring="Only two things are infinite, the universe and human stupidity, and I am not sure about the former.")
+q2 = Quotes(quoteauthor="Abraham Lincoln",quotestring="Give me six hours to chop down a tree and I will spend the first four sharpening the axe.")
+q3 = Quotes(quoteauthor="Benjamin Franklin",quotestring="Tell me and I forget. Teach me and I remember. Involve me and I learn.")
+q4 = Quotes(quoteauthor="William Shakespeare",quotestring="Listen to many, speak to a few.")
+q5 = Quotes(quoteauthor="Warren Buffett",quotestring="Only when the tide goes out do you discover who has been swimming naked.")
